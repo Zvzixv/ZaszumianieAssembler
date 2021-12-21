@@ -1,0 +1,22 @@
+﻿     Trwa tworzenie biblioteki C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.lib i obiektu C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.exp
+AsmLib.exp : warning LNK4070: /OUT: dyrektywa JAAsm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.dll"; dyrektywa została zignorowana
+  AsmLib.vcxproj -> C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.dll
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: Nastąpiło nieoczekiwane niepowodzenie zadania „METAGEN”.
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: System.BadImageFormatException: Nie można załadować pliku lub zestawu 'file:///C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.dll' lub jednej z jego zależności. Oczekiwano, że moduł będzie zawierał manifest zestawu.
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: Nazwa pliku: 'file:///C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\x64\Debug\AsmLib.dll'
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w System.Reflection.Assembly.ReflectionOnlyLoadFrom(String assemblyFile)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.CPPTasks.MetaDumper.GenerateAssemblyMeta(String theModule, String refSearchPath)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.CPPTasks.MetaDumper.GenerateAssemblyMeta(String theModule, String refSearchPath)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.CPPTasks.AsmMeta.CreateMeta(String assemblyFileName, String searchPath, String metaFileName)
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.CPPTasks.METAGEN.Execute()
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018:    w Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: 
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestawów jest wyłączone.
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: Aby włączyć rejestrowanie błędów powiązań zestawów, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) równą 1.
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: Uwaga: z włączeniem rejestrowania błędów powiązań zestawów wiąże się pewien spadek wydajności.
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+D:\Programs\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(52,5): warning MSB4018: 

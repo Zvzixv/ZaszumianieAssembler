@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aioJNenIMs+x1KPc3uKOTdU+Gk3qze4+5MXpwDra+rgg9eJHGlTX99OAK8eud4mP7Jw/59SEpTQJe7BpysBRzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zuzia\\Documents\\JaProjekt2\\JaProjekt2\\CSLib\\CSLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zuzia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zuzia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zuzia\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

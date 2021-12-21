@@ -1,0 +1,5 @@
+C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\CLib\CLib\obj\Debug\netstandard2.0\CLib.csproj.AssemblyReference.cache
+C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\CLib\CLib\obj\Debug\netstandard2.0\CLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\CLib\CLib\obj\Debug\netstandard2.0\CLib.AssemblyInfoInputs.cache
+C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\CLib\CLib\obj\Debug\netstandard2.0\CLib.AssemblyInfo.cs
+C:\Users\zuzia\Documents\JaProjekt2\JaProjekt2\CLib\CLib\obj\Debug\netstandard2.0\CLib.csproj.CoreCompileInputs.cache
